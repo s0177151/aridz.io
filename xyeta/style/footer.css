@@ -1,0 +1,23 @@
+h4 {
+    color: #00f7ff;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  }
+
+.foot{
+    width:200px; 
+    background-color:#0400fd; 
+    margin:50px; 
+    padding:25px;
+}
+
+.foter{
+  float:left; 
+  max-width:0 auto; 
+  bottom:20px; 
+  margin: 15px; 
+  margin-top:0px;
+  background-color:#0400fd; 
+  padding:12px;
+}
